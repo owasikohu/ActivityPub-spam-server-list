@@ -7,9 +7,10 @@ social.cutefunny.net
 library.love
 the-gathering.space
 games.retrotalk.live
-uddannelse.social
-discourse.helenprejean.org
-raccoon.place
-hacks.fi
-est.social
-quakers.social
+social.gamesathome.net
+nwb.social
+weserbergland.social
+cloud.zannoni.eu
+mastodom.social
+bauphysik.social
+mentalhealth-masto.com
