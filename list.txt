@@ -14,3 +14,7 @@ cloud.zannoni.eu
 mastodom.social
 bauphysik.social
 mentalhealth-masto.com
+swiss-talk.net
+tty0.social
+devsrv.farhan.codes
+beyond.forum
