@@ -18,3 +18,6 @@ swiss-talk.net
 tty0.social
 devsrv.farhan.codes
 beyond.forum
+cmm.fyi
+melendez.land
+squabble.org
